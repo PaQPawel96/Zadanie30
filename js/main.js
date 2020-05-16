@@ -1,0 +1,1 @@
+let paragraf=document.querySelector('#par');
